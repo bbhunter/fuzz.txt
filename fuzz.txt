@@ -95,6 +95,9 @@
 .cshrc
 .CSV
 .csv
+.cursor
+.cursor-settings
+.cursorignore
 .CVS
 .cvs
 .cvsignore
@@ -1986,6 +1989,8 @@ classes/cookie.txt
 classes_gen
 classic.json
 classic.jsonp
+CLAUDE.local.md
+CLAUDE.md
 cleanup.log
 cli/
 client.ovpn
